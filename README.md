@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Walter Ciriello 👋
 
-![Walter Ciriello GitHub stats](https://github-readme-stats.vercel.app/api?username=walterciriello&show_icons=true&theme=dark)
+
 
 ## Tecnologias que uso no dia a dia
 
