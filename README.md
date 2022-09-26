@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Ciriello 👋
 ***
 
-![Walter Ciriello GitHub stats](https://github-readme-stats.vercel.app/api?username=walterciriello&show_icons=true&theme=dark)
+![Rafael Ciriello GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelciriello&show_icons=true&theme=dark)
 
 ### Tecnologias que uso no dia a dia
 
