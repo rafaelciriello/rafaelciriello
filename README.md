@@ -1,9 +1,9 @@
-### Olá! Eu sou o Rafael Ciriello 👋
+### Hello! I'm Rafael Ciriello 👋
 ***
 
 ![Rafael Ciriello GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelciriello&show_icons=true&theme=dark)
 
-### Tecnologias que uso no dia a dia
+### Technologies I use:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
