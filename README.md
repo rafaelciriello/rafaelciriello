@@ -1,7 +1,7 @@
 ### Hello! ✋ I'm Rafael Ciriello ☕ 
 ***
 
-![Rafael Ciriello GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelciriello&show_icons=true&theme=cobalt)
+![Rafael Ciriello GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelciriello&show_icons=true&theme=synthwave)
 ***
 
 ### Technologies I use:
