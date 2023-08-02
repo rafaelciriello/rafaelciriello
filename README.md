@@ -1,10 +1,9 @@
 ### Hello! ✋ I'm Rafael Ciriello ☕ 
-***
 
-![Rafael Ciriello GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelciriello&show_icons=true&theme=tokonight)
+![Rafael Ciriello GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelciriello&show_icons=true&theme=onedark)
+***
 
 ### Technologies I use:
-***
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostegreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
