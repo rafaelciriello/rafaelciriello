@@ -14,6 +14,12 @@ Welcome to my GitHub! I'm a **DevOps and Cloud enthusiast** transitioning into t
 
 ---
 
+## 🏆 Certifications
+- 📖 AWS Developer Associate *(studying)*
+- 📖 Terraform Associate *(studying)*
+
+---
+
 ## 🧰 Tools & Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -34,12 +40,6 @@ Welcome to my GitHub! I'm a **DevOps and Cloud enthusiast** transitioning into t
 - 🐳 [**Docker App on EKS**](https://github.com/rafaelciriello/docker-eks-app): Flask + Docker + EKS com CI/CD via GitHub Actions.
 
 ➡️ *More projects coming soon...*
-
----
-
-## 🏆 Certifications
-- 📖 AWS Developer Associate *(studying)*
-- 📖 Terraform Associate *(studying)*
 
 ---
 
