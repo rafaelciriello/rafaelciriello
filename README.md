@@ -25,16 +25,14 @@ Welcome to my GitHub! I'm a **DevOps and Cloud enthusiast** transitioning into t
 
 ---
 
-## 📂 Projects (WIP)
+## 📂 Featured Projects
 
-| Project | Stack | Goal |
-|--------|-------|------|
-| **CI/CD Pipeline** | GitHub Actions, AWS | Deploy static app to S3 |
-| **Terraform Infra** | Terraform, AWS | Provision VPC + EC2 + S3 |
-| **Boto3 Script** | Python, Boto3 | Automate S3 backup |
-| **Docker App on EKS** | Flask, EKS, Docker | Deploy Flask app on K8s |
+- 🔁 [**CI/CD Pipeline**](https://github.com/rafaelciriello/ci-cd-pipeline): Deploy de app estático com GitHub Actions + S3.
+- 🏗️ [**Terraform Infra**](https://github.com/rafaelciriello/terraform-infra): Infraestrutura AWS com Terraform (VPC, EC2, S3).
+- 🐍 [**Boto3 Script**](https://github.com/rafaelciriello/boto3-automation): Script Python para automação de backups no S3.
+- 🐳 [**Docker App on EKS**](https://github.com/rafaelciriello/docker-eks-app): Flask + Docker + EKS com CI/CD via GitHub Actions.
 
-➡️ *More in progress...*
+➡️ *More projects coming soon...*
 
 ---
 
